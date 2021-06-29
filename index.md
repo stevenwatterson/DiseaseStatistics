@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<iframe width="600" height="450" src="https://datastudio.google.com/embed/reporting/db2c6755-249a-4d90-a18d-311229f29aa5/page/n0pRC" frameborder="0" style="border:0" allowfullscreen></iframe>
+
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 [Link to another page](./another-page.html).
